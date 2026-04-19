@@ -1,0 +1,15 @@
+# Core dependencies
+numpy>=1.21.0
+pygame>=2.5.0
+opencv-python>=4.8.0
+
+# Visualization
+matplotlib>=3.7.0
+pillow>=10.0.0
+
+# Utilities
+pyyaml>=6.0
+pyserial>=3.5  # For real robot communication
+
+# Simulation
+noise>=1.2.2   # For procedural cave generation

@@ -1,0 +1,28 @@
+# Configuration files
+robot_config.yaml
+simulation_config.yaml
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models
+models/*.pkl
+models/*.tflite
+models/*.onnx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
